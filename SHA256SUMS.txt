@@ -1,1 +1,1 @@
-c460686163da06fe1c7cec054bae317a2f2a4e738c94bfeffdc21dc6de82f84b  Bubble-Chat-0.2.0-build143-arm64.zip
+71efbfb3791c6df54a47a535c6137ea4836bcd5988dab794823634332f1934da  Bubble-Chat-0.2.0-build148-arm64.zip
