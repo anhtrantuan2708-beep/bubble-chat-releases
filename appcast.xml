@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Bubble Chat 0.2.0</title>
         <item>
             <title>0.2.0</title>
+            <pubDate>Mon, 12 Oct 2026 11:23:08 +0700</pubDate>
+            <sparkle:version>174</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-174/Bubble-Chat-0.2.0-build174-arm64.zip" length="156370796" type="application/octet-stream" sparkle:edSignature="U8gUABr2Y6julvSGJRAagLPu9COMoY+dvf/tcEZ1P8dYGE/fe17zhsZJf8m/hC7KF4vwlDOip7BGUip4NGI+AA=="/>
+        </item>
+        <item>
+            <title>0.2.0</title>
             <pubDate>Sun, 11 Oct 2026 22:04:56 +0700</pubDate>
             <sparkle:version>173</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-171/Bubble-Chat-0.2.0-build171-arm64.zip" length="156354357" type="application/octet-stream" sparkle:edSignature="n1EazlyxkRPOhDpzy/xl4dGWUGU05PM1c51cyhBFcbSxbNU2bHtfkOlgEABZwzZVaDTmyj6NqVX+wi5uYOlKBg=="/>
         </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sun, 11 Oct 2026 00:10:26 +0700</pubDate>
-            <sparkle:version>165</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-165/Bubble-Chat-0.2.0-build165-arm64.zip" length="156215796" type="application/octet-stream" sparkle:edSignature="vWHo9c6l4yPyctQBys+kPaBLV2z43RUjGI/tr2fWTEEOHqF1Y100Qj5eCC9+q+xQn4N5RQtKTFUdVQZIdfKCBg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 5XEl00C462O9BAYCq9vC7dyQc5dxDmGzr9rPe8ZreN80SmW5AO/ga2J3RMoxyUHtS/m3V+iJKsty39d4wAkbDQ==
+edSignature: aoBa5onIpreWBIz6Nba2kL3zFBlRqg5daiz1rGy8BQEmWTsQvEvibo4zjQMSW12yJAV6Wy9YdFEuWQ7EK2kJDQ==
 length: 2664
 -->
