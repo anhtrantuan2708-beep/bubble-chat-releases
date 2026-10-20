@@ -5,12 +5,15 @@ The product's development repository is private.
 
 ## Download
 
-Current app: **Bubble Chat 0.2.0, build233**.
+Current app: **Bubble Chat 0.2.0, build246**.
 
-[Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-233/Bubble-Chat-0.2.0-build233-arm64.dmg)
+Build246 includes the current textured mascot, updated edge/layout interactions,
+reaction feedback and fixes for reaction scrolling and hover previews.
+
+[Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-246/Bubble-Chat-0.2.0-build246-arm64.dmg)
 
 Open the DMG and drag **Bubble Chat 0.2.0** to Applications. Quit an existing copy
-before replacing it. The [release page](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/tag/local-alpha-0.2.0-233)
+before replacing it. The [release page](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/tag/local-alpha-0.2.0-246)
 also provides a ZIP and SHA256 checksums.
 
 The Facebook/Instagram sign-in browser is included in the app; no separate helper
