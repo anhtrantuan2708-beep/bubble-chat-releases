@@ -5,16 +5,15 @@ The product's development repository is private.
 
 ## Download
 
-Current app: **Bubble Chat 0.2.0, build248**.
+Current app: **Bubble Chat 0.2.0, build249**.
 
-Build248 adds file attachments, drag-to-expand recipient bubbles, edge unread counts,
-Instagram conversation links and a soft suction sound when the mascot tucks into an edge.
-The current textured mascot is included.
+Build249 temporarily uses the corner-snap Pop for edge tuck. It retains file
+attachments, drag-to-expand recipients, edge unread counts and Instagram chat links.
 
-[Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-248/Bubble-Chat-0.2.0-build248-arm64.dmg)
+[Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-249/Bubble-Chat-0.2.0-build249-arm64.dmg)
 
 Open the DMG and drag **Bubble Chat 0.2.0** to Applications. Quit an existing copy
-before replacing it. The [release page](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/tag/local-alpha-0.2.0-248)
+before replacing it. The [release page](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/tag/local-alpha-0.2.0-249)
 also provides a ZIP and SHA256 checksums.
 
 The Facebook/Instagram sign-in browser is included in the app; no separate helper
