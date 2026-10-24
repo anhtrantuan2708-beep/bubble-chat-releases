@@ -7,12 +7,12 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Bubble Chat 0.2.0</title>
         <item>
             <title>0.2.0</title>
-            <pubDate>Sat, 24 Oct 2026 14:10:47 +0700</pubDate>
-            <sparkle:version>258</sparkle:version>
+            <pubDate>Sat, 24 Oct 2026 15:17:31 +0700</pubDate>
+            <sparkle:version>259</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-258/Bubbo-0.2.0-build258-arm64.zip" length="301407788" type="application/octet-stream" sparkle:edSignature="vqHW2+0dIb/X51q4kzrqOlhOfjZiu8LuMRCuhMqrZ34bAmJjhZMBB+3ry9qjkebr9R9GoaQ6QtB7zUZPpbkBAQ=="/>
+            <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-259/Bubbo-0.2.0-build259-arm64.zip" length="301263944" type="application/octet-stream" sparkle:edSignature="0a4zh1UL79YMw+3GvAgCOZsM9VgJpalNZUZoEcaZFu2+6huEfplbfEtCmkjIqFJZ0bTivj/B+L8fw2hxf+ZUBA=="/>
         </item>
         <item>
             <title>0.2.0</title>
@@ -35,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: r9Ug4/1guIF0ywGFeRhi4wNk29MIm2edgrHzsFUU3Eaubpo0u7LXNrW1yqwnhKfANp/F3N8SkeFO5Ah9hPvNCw==
+edSignature: Tp0V1d7S0vKnM699rOB9yeHJjaii2l2BIFDtMEmxRCG1C/nrnoOr6VB1HMYg66yMtQ7nFqyH+SnDnRr2lTr5Cw==
 length: 2658
 -->
