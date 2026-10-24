@@ -3,7 +3,15 @@
 Binary releases and the signed Sparkle feed for **Bubbo**'s local macOS alpha (formerly Bubble Chat).
 The product's development repository is private.
 
-## Download
+## Quick Install (1-Line Terminal Command — Recommended)
+
+Install **Bubbo 0.2.0 (build 259)** directly into `/Applications` with automatic SHA-256 & code-signature verification (no Gatekeeper prompt on first launch):
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/anhtrantuan2708-beep/bubble-chat-releases/brian/install.sh | bash
+```
+
+## Manual Download (DMG / ZIP)
 
 Current app: **Bubbo 0.2.0, build 259**.
 
@@ -17,7 +25,7 @@ The Facebook/Instagram sign-in browser is included in the app; no separate helpe
 
 Requires an Apple Silicon Mac running macOS 14 or newer.
 These alpha builds are signed for development and are not notarized.
-If macOS blocks first launch, use System Settings → Privacy & Security → Open Anyway.
+If macOS blocks first launch after manual DMG installation, either run `xattr -cr "/Applications/Bubbo 0.2.0.app"` in Terminal or use **System Settings → Privacy & Security → Open Anyway**.
 
 The chat runtime runs on the user's Mac; no hosted chat server or Docker is required.
 Starting with build 143, Sparkle checks the signed HTTPS feed here for subsequent updates.
