@@ -12,7 +12,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-264/Bubbo-0.2.0-build264-arm64.zip" length="320025155" type="application/octet-stream" sparkle:edSignature="DcKsGwNBn5Qexpbw5CqiklnA4TKsqrdpXRoUB1ezR7ciAUAvhuXuankIq0zJTPSk7B1qDoufFXDwtbw6eTmTDQ=="/>
+            <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-264/Bubbo-0.2.0-build264-arm64.zip" length="320007974" type="application/octet-stream" sparkle:edSignature="wQS5pKfp5eXUlFsYh4xxxbTx0GtpKHsB+jk3NlKtG5liJ6lnbAinpjf6a0E9ASiluSmFV/7oTrnKpuSSs5p8BA=="/>
         </item>
         <item>
             <title>0.2.0</title>
@@ -35,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: EsfHs9GuPyFC9BkjR9JCaP4Gryt1sQee4vxZECr7LBgMyE0AEn+/KWpvUI2mScdtgqYa4QbSlJH/nmDiNhlzAg==
+edSignature: ZYvClmMsS/e8avTVEycb63yspKJqdeLy7l221SAQK7ytkDPJvVOa2yb06VVHK3ZeLcqmBBDokmy1qlW51rnVDA==
 length: 2652
 -->
