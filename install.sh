@@ -2,10 +2,10 @@
 set -euo pipefail
 
 VERSION="0.2.0"
-BUILD="283"
+BUILD="284"
 APP_NAME="Bubbo 0.2.0.app"
 ZIP_URL="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-${VERSION}-${BUILD}/Bubbo-${VERSION}-build${BUILD}-arm64.zip"
-EXPECTED_SHA256="899bc43c5dfced44ace547bc58ddcf60f1f1012fa951956af974295ae8f334ae"
+EXPECTED_SHA256="f0585f08eb25ff3a49efe0fb6ecaaa5bfd9460133674c46e2607eef6685e6e0a"
 TRACK_URL="https://bubbo-cms.pages.dev/api/track"
 
 if [[ "$(uname -s)" != "Darwin" ]]; then

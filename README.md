@@ -5,7 +5,7 @@ The product's development repository is private.
 
 ## Quick Install (1-Line Terminal Command — Recommended)
 
-Install **Bubbo 0.2.0 (build 283)** directly into `/Applications` with automatic SHA-256 & code-signature verification (no Gatekeeper prompt on first launch):
+Install **Bubbo 0.2.0 (build 284)** directly into `/Applications` with automatic SHA-256 & code-signature verification (no Gatekeeper prompt on first launch):
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/anhtrantuan2708-beep/bubble-chat-releases/brian/install.sh | bash
@@ -13,15 +13,15 @@ curl -fsSL https://raw.githubusercontent.com/anhtrantuan2708-beep/bubble-chat-re
 
 ## Manual Download (DMG / ZIP)
 
-Current app: **Bubbo 0.2.0, build 283**.
+Current app: **Bubbo 0.2.0, build 284**.
 
-Build 283 refines child-bubble chat window glide & gentle switch animations, fixes an `NSDisplayCycle` text layout crash, adds reactive 3D mascot emotions with 3-dot typing wave eyes, adds iMessage-style voice recording continuation & playback progress tracking, and brings quick-reply reaction badges, compact group seen-by strips, and copy confirmation toasts.
+Build 284 adds the LINE Messenger local bridge (QR + 6-digit Letter Sealing PIN + history sync), Direct Media on-demand disk caching, Smart Dynamic Dock, customizable Chat Window backgrounds (`Rising Horizon`, `Frosted Ice`, `Classic`) with live side-by-side preview, Voice Note playback speed (`1x–2x`) with a floating Liquid Glass Mascot Voice Dock, major ChatWindow & timeline scroll performance optimizations (`NSTextView` pool, TextKit size cache, Frame-0 cached images, `1.2x` motion speed), redesigned Plans & Settings (`Connection`, `Conversations`, `Storage`), offline auto-send queue, Live Text click-outside/Escape dismissal fix, restrained no-clip child bubble pull, and a ~134 MB lighter installer using a verified on-demand sign-in helper.
 
-[Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-283/Bubbo-0.2.0-build283-arm64.dmg)
+[Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-284/Bubbo-0.2.0-build284-arm64.dmg)
 
-Open the DMG and drag **Bubbo 0.2.0** to Applications. Quit any existing copy of Bubble Chat or Bubbo before replacing it. The [release page](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/tag/local-alpha-0.2.0-283) also provides a ZIP and SHA256 checksums.
+Open the DMG and drag **Bubbo 0.2.0** to Applications. Quit any existing copy of Bubble Chat or Bubbo before replacing it. The [release page](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/tag/local-alpha-0.2.0-284) also provides a ZIP and SHA256 checksums.
 
-The Facebook/Instagram sign-in browser is included in the app; no separate helper installation or download is required. Existing local account data, conversations, drafts, and settings (`local.bubblechat.native`) are preserved across the upgrade to Bubbo.
+The Facebook/Instagram sign-in browser is downloaded automatically on demand with SHA-256 and code-signature verification when connecting Meta networks. Existing local account data, conversations, drafts, and settings (`local.bubblechat.native`) are preserved across the upgrade.
 
 Requires an Apple Silicon Mac running macOS 14 or newer.
 These alpha builds are signed for development and are not notarized.
