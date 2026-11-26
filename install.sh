@@ -5,7 +5,7 @@ VERSION="0.2.0"
 BUILD="285"
 APP_NAME="Bubbo 0.2.0.app"
 ZIP_URL="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-${VERSION}-${BUILD}/Bubbo-${VERSION}-build${BUILD}-arm64.zip"
-EXPECTED_SHA256="f0585f08eb25ff3a49efe0fb6ecaaa5bfd9460133674c46e2607eef6685e6e0a"
+EXPECTED_SHA256="e3cbeea34cd5df30ece870a69b6768edbb766a50f6e9e639615aeab2ac729d88"
 TRACK_URL="https://bubbo-cms.pages.dev/api/track"
 
 if [[ "$(uname -s)" != "Darwin" ]]; then

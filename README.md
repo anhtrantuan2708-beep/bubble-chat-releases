@@ -5,7 +5,7 @@ The product's development repository is private.
 
 ## Quick Install (1-Line Terminal Command — Recommended)
 
-Install **Bubbo 0.2.0 (build 284)** directly into `/Applications` with automatic SHA-256 & code-signature verification (no Gatekeeper prompt on first launch):
+Install **Bubbo 0.2.0 (build 285)** directly into `/Applications` with automatic SHA-256 & code-signature verification (no Gatekeeper prompt on first launch):
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/anhtrantuan2708-beep/bubble-chat-releases/brian/install.sh | bash
@@ -13,9 +13,9 @@ curl -fsSL https://raw.githubusercontent.com/anhtrantuan2708-beep/bubble-chat-re
 
 ## Manual Download (DMG / ZIP)
 
-Current app: **Bubbo 0.2.0, build 284**.
+Current app: **Bubbo 0.2.0, build 285**.
 
-Build 284 adds the LINE Messenger local bridge (QR + 6-digit Letter Sealing PIN + history sync), Direct Media on-demand disk caching, Smart Dynamic Dock, customizable Chat Window backgrounds (`Rising Horizon`, `Frosted Ice`, `Classic`) with live side-by-side preview, Voice Note playback speed (`1x–2x`) with a floating Liquid Glass Mascot Voice Dock, major ChatWindow & timeline scroll performance optimizations (`NSTextView` pool, TextKit size cache, Frame-0 cached images, `1.2x` motion speed), redesigned Plans & Settings (`Connection`, `Conversations`, `Storage`), offline auto-send queue, Live Text click-outside/Escape dismissal fix, restrained no-clip child bubble pull, and a ~134 MB lighter installer using a verified on-demand sign-in helper.
+Build 285 introduces the detached Liquid Glass Quick Switcher (`⌘K` / `⌃⌥K`) with borderless Recessed Track network/scope filters, translucent Rising Horizon gradient, and `Actions ⌘K` quick menu; an interactive 1-to-1 Media Photo Carousel with live neighbor peeking, rubber-band boundaries, velocity momentum handoff, and smooth spring keyboard navigation; plus ChatWindow & Timeline polish (full-bleed Liquid Glass GIF tray, compact native connection status pill, borderless selected bubbles, full-width header pill spread fix, eliminated open-chat bounce and hover-selection wipe) — all in a lightweight ~188.5 MiB DMG using a verified on-demand sign-in helper.
 
 [Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-285/Bubbo-0.2.0-build285-arm64.dmg)
 
