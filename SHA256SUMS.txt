@@ -1,2 +1,2 @@
-f0585f08eb25ff3a49efe0fb6ecaaa5bfd9460133674c46e2607eef6685e6e0a  Bubbo-0.2.0-build284-arm64.zip
-8b5c1ba540416f6b39caef221e67f534e79972f1feffd70a02453f88ea94a76e  Bubbo-0.2.0-build284-arm64.dmg
+e3cbeea34cd5df30ece870a69b6768edbb766a50f6e9e639615aeab2ac729d88  Bubbo-0.2.0-build285-arm64.zip
+f3e32eca52fa188c3e42da04d1ec73f35f16a98c255096022bb889d06a4db2b2  Bubbo-0.2.0-build285-arm64.dmg
