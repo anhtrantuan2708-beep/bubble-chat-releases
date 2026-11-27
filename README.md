@@ -5,7 +5,7 @@ The product's development repository is private.
 
 ## Quick Install (1-Line Terminal Command — Recommended)
 
-Install **Bubbo 0.2.0 (build 285)** directly into `/Applications` with automatic SHA-256 & code-signature verification (no Gatekeeper prompt on first launch):
+Install **Bubbo 0.2.0 (build 286)** directly into `/Applications` with automatic SHA-256 & code-signature verification (no Gatekeeper prompt on first launch):
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/anhtrantuan2708-beep/bubble-chat-releases/brian/install.sh | bash
@@ -13,13 +13,13 @@ curl -fsSL https://raw.githubusercontent.com/anhtrantuan2708-beep/bubble-chat-re
 
 ## Manual Download (DMG / ZIP)
 
-Current app: **Bubbo 0.2.0, build 285**.
+Current app: **Bubbo 0.2.0, build 286**.
 
-Build 285 introduces the detached Liquid Glass Quick Switcher (`⌘K` / `⌃⌥K`) with borderless Recessed Track network/scope filters, translucent Rising Horizon gradient, and `Actions ⌘K` quick menu; an interactive 1-to-1 Media Photo Carousel with live neighbor peeking, rubber-band boundaries, velocity momentum handoff, and smooth spring keyboard navigation; plus ChatWindow & Timeline polish (full-bleed Liquid Glass GIF tray, compact native connection status pill, borderless selected bubbles, full-width header pill spread fix, eliminated open-chat bounce and hover-selection wipe) — all in a lightweight ~188.5 MiB DMG using a verified on-demand sign-in helper.
+Build 286 fixes Telegram missing avatars (migrating legacy Telegram avatars to on-demand `direct_media` and raising avatar cache protection), improves Telegram mute sync (global defaults, silent dialogs, Archive folder, and newly opened groups), enforces a unified muted-conversation orbit policy (muted chats and groups stay off floating sub-bubbles — including on initial network connect — until proactively searched and messaged), adds Messenger/Instagram Story Reply badges, Apple Messages-style right-click focus dimming, high-contrast Reply-Jump spotlighting, pasted-image crop/rotate studio, safe file attachment sanitization with click-to-open, and a clearer fresh-install Gatekeeper & Welcome experience.
 
-[Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-285/Bubbo-0.2.0-build285-arm64.dmg)
+[Download the macOS installer (DMG)](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-286/Bubbo-0.2.0-build286-arm64.dmg)
 
-Open the DMG and drag **Bubbo 0.2.0** to Applications. Quit any existing copy of Bubble Chat or Bubbo before replacing it. The [release page](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/tag/local-alpha-0.2.0-285) also provides a ZIP and SHA256 checksums.
+Open the DMG and drag **Bubbo 0.2.0** to Applications. Quit any existing copy of Bubble Chat or Bubbo before replacing it. The [release page](https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/tag/local-alpha-0.2.0-286) also provides a ZIP and SHA256 checksums.
 
 The Facebook/Instagram sign-in browser is downloaded automatically on demand with SHA-256 and code-signature verification when connecting Meta networks. Existing local account data, conversations, drafts, and settings (`local.bubblechat.native`) are preserved across the upgrade.
 

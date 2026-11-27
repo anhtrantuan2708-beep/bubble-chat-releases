@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Bubble Chat 0.2.0</title>
         <item>
             <title>0.2.0</title>
+            <pubDate>Fri, 27 Nov 2026 16:13:26 +0700</pubDate>
+            <sparkle:version>286</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-286/Bubbo-0.2.0-build286-arm64.zip" length="186373253" type="application/octet-stream" sparkle:edSignature="uUoElgZa3JaHTiPNEMx8EXAIJeIKgtJ42N9FraxRP5OVTqOZewRfRYCKq4iiZ0hISogHPvTEzCIkcGt04CORBw=="/>
+        </item>
+        <item>
+            <title>0.2.0</title>
             <pubDate>Thu, 26 Nov 2026 12:39:39 +0700</pubDate>
             <sparkle:version>285</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-284/Bubbo-0.2.0-build284-arm64.zip" length="185923723" type="application/octet-stream" sparkle:edSignature="EbGj9BWrph56R905H6jRrp1V1tzLU5mLIAouia0g4toEvaqcVa6WKEmcI6+zJ9cYgBuQs4AgSCymiS/HnHb+Dg=="/>
         </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Mon, 16 Nov 2026 01:42:11 +0700</pubDate>
-            <sparkle:version>283</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/anhtrantuan2708-beep/bubble-chat-releases/releases/download/local-alpha-0.2.0-283/Bubbo-0.2.0-build283-arm64.zip" length="313729959" type="application/octet-stream" sparkle:edSignature="JHPRBQiyJy7SFF7wo5EB9tiHhxzv0S79qdG6il/g9mIe1fmLjeF59Ji7/U3mq6e/kuBMnwNUGE2y1bM63hJIAQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: BaS45+Cz2G0g3Uxg0+0CqVxcHF/TNxAurPtLNEP1/9bYZPCcB8FJQdPv/qDMfXDe3w03pqXa0ivaw12N26KXAQ==
+edSignature: vGDi4pqPKhrmfZm0NU1Tdo10U+RV+2ZVdNwOtOoWEZRwHTSJ38QvQMk62/fDFitfOUesTUznCpgYMZKnD9X1Bg==
 length: 2646
 -->
